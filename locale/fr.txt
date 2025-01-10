@@ -1,0 +1,25 @@
+#: locale=fr
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Projet Joele et  Olivier
+
+## Skin
+
+### Label
+label4056.text = Maison à Briançon
+
+## Media
+
+### Title
+panorama_4E8719B2_45CF_E486_41CA_89F3A8B7334B.label = Salle a manger
+panorama_4EC788ED_45D0_2482_41B5_C66885D08B1A.label = Chambre
+panorama_4F2FBD9D_45B0_5C82_41BA_3B3B7E4C654D.label = Salon
+
+## Action
+
+### URL
+LinkBehaviour_A4D1DCCC_BF24_0354_41BC_7B57F239723C.source = https://t3architecture.fr/
