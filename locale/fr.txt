@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Joel et Olivier
+tour.name = Sans titre 14
 
 ## Skin
 
@@ -15,9 +15,9 @@ label4056.text = Maison à Briançon
 ## Media
 
 ### Title
-panorama_542B390A_5F1F_C2DA_41C2_21EBC1D53BC4.label = Chambre
-panorama_54AD4A0C_5F1F_46DE_4153_D4C1A4DC0B0E.label = Salle a manger 
-panorama_54CB7DB6_5F11_3DCB_4194_5F4ADD28A107.label = Salon
+panorama_5405FE53_5F28_DCB6_41C6_439B9BC5FBF8.label = Chambre 
+panorama_5442242D_5F28_AC92_419A_61FB0CEE1F91.label = Salle a manger 
+panorama_54A96002_5F28_6491_41D5_0C4E8EDE747E.label = Salon
 
 ## Action
 
