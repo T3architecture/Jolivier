@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Sans titre 14
+tour.name = Projet Joele et Olivier 
 
 ## Skin
 
