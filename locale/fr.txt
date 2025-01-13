@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = Projet Joele et  Olivier
+tour.name = Joel et Olivier
 
 ## Skin
 
@@ -15,9 +15,9 @@ label4056.text = Maison à Briançon
 ## Media
 
 ### Title
-panorama_4E8719B2_45CF_E486_41CA_89F3A8B7334B.label = Salle a manger
-panorama_4EC788ED_45D0_2482_41B5_C66885D08B1A.label = Chambre
-panorama_4F2FBD9D_45B0_5C82_41BA_3B3B7E4C654D.label = Salon
+panorama_542B390A_5F1F_C2DA_41C2_21EBC1D53BC4.label = Chambre
+panorama_54AD4A0C_5F1F_46DE_4153_D4C1A4DC0B0E.label = Salle a manger 
+panorama_54CB7DB6_5F11_3DCB_4194_5F4ADD28A107.label = Salon
 
 ## Action
 
